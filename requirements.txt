@@ -1,0 +1,5 @@
+gradio
+pymupdf
+openai
+requests
+beautifulsoup4
